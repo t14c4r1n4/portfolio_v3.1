@@ -7,12 +7,10 @@ Used tools:
 - EmailJS
 - React Icons
 - Heroicons
-- React Scrollspy Navigation
 
 
 To-dos: 
 
-- [] tooltip styling + animation
 - [] SEO
 - [] robots.txt
 - [] reorganize skill-section
